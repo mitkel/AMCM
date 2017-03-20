@@ -1,0 +1,2 @@
+4. Zapewne tak
+6. ćw. 5 pokazuje, że można je policzyć numerycznie (w końcu jesteśmy w stanie wypisać tą macierz). Jeśli chodzi o policzenie na papierze - może jak ktoś by się uparł, to i by dało radę, najpeirw jednak trzeba mieć na tyle cierpliwości, żeby przeczytać wyrażenia na te wszystkie pochodne :)
