@@ -1,0 +1,4 @@
+Treść zadania nie grała mi trochę jeśli chodzi o losowanie mod, dlatego założyłem losowanie z rozkładu produktowego beta. Dirichlet wydawał się nie mieć sensu, bo nie widać powodu, żeby mody miały się sumować do jakiejś magicznej stałej :)
+
+Algorytm zbiega bardzo dobrze dla dostatecznie dużych odległości między modami. W przypadku, gdy mody są zbyt zbliżone (1.5) niestety jakość estymacji znacząco spada.
+
